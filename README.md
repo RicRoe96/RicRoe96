@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p>I am currently an apprentice in software development at regio iT.<br>
+At the moment, I am learning Java and ABAP.</p>
 <!--
 **RicRoe96/RicRoe96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
